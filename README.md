@@ -12,7 +12,6 @@
 #### 🚀 Propriedades
 #### 🚀 Routes e Navegação
 
-<h1 align="center"><a href="https://carloseduardob94.github.io/Rocketnotes/" target="_blank" >Deploy 🌍</a></h2>
 
 <h2 align="center">Linguagens e Tecnologias usadas ⬇</h2>
 
