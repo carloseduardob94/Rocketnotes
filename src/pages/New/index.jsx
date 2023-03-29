@@ -52,7 +52,6 @@ export function New(){
       return alert("Tag preenchida, mas não adicionada...")
     }
 
-
     await api.post("/notes", {
       title,
       description,
@@ -60,7 +59,7 @@ export function New(){
       links
     })
     alert("Nota criada com sucesso!")
-    navigate('/')
+    navigate(-1)
   }
 
   return(
